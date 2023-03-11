@@ -21,11 +21,15 @@
 
 name = "reza"
 family = "rezaei"
+age = 11
 
-print(name, family)
+print(name, family, age)
 
 # exercise 2 :
 # با کمک پرینت حاصل عبارات زیر را نمایش دهید:
 # 1 + 2 + 3
 # 2 * 2 - 1
 # 2 + 2 - 2
+result = 1 + 2 + 3
+print(result)
+print(1 + 2 + 3)
