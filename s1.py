@@ -4,20 +4,26 @@
 # print()
 # print("welcome to our python class.")
 
-score = 0
-print("score:", score)
-print("new score is:", score + 1)
-print("new score is:", "score + 1")
-print("new score is:", score - 1)
+# score = 0
+# print("score:", score)
+# print("new score is:", score + 1)
+# print("new score is:", "score + 1")
+# print("new score is:", score - 1)
 
-print("score:", score)
-score = score + 1
-print("new score is:", score)
-score = score - 1
-print("new score is:", score)
+# print("score:", score)
+# score = score + 1
+# print("new score is:", score)
+# score = score - 1
+# print("new score is:", score)
 
 # exercise 1:
 # با کمک پرینت،نام و نام خانوادگی و سن خودتان را پرینت نمائید.
+
+name = "reza"
+family = "rezaei"
+
+print(name, family)
+
 # exercise 2 :
 # با کمک پرینت حاصل عبارات زیر را نمایش دهید:
 # 1 + 2 + 3
