@@ -62,5 +62,7 @@ message = '''hello every body, welcome to our "python" class.we are going to lea
 print(message)
 
 # exercise1:
-message = 'He said, "Aren't can't shouldn't wouldn't."'
+message = 'He said, "Aren\'t can\'t shouldn\'t wouldn\'t."'
 print(message)
+
+message = '''He said, "Aren't can't shouldn't wouldn't."'''
