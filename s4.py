@@ -55,8 +55,15 @@ A
 اگر از 18 پائین تر بود
 B 
 را پرینت نماید
-
 '''
+
+# name = input('enter a name: ')
+# programming_score = float(input('enter your programming score: '))
+# if programming_score >= 18:
+#     print("A")
+# else:
+#     print("B")
+
 # تمرین دوم
 # برنامه ای بنویسید که نمره سه درس دانش آموزی را از ورودی دریافت نماید
 # و معدل دانش آموز را محاسبه کند
@@ -65,3 +72,12 @@ B
 # بالاتر بود
 # good
 # را پرینت نماید
+
+# score1 = float(input('enter first score: '))
+# score2 = float(input('enter second score: '))
+# score3 = float(input('enter third score: '))
+
+# average = (score1 + score2 + score3) / 3
+
+# if average > 19:
+#     print("good")
